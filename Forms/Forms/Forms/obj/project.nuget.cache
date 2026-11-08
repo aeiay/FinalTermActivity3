@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "leWh+ODkLXU=",
+  "success": true,
+  "projectFilePath": "C:\\Downloads\\Forms\\Forms\\Forms\\Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aseiyah Grace\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
